@@ -1,1 +1,1 @@
-print("git repo")
+print("mkdir remote-repo")
